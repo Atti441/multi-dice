@@ -5,7 +5,7 @@ input.onGesture(Gesture.Shake, function () {
     basic.showNumber(dice)
     basic.showIcon(IconNames.Yes)
     basic.showLeds(`
-        . . . . .
+        # . . . .
         . . . . .
         . . . . .
         . . . . .
